@@ -1,0 +1,26 @@
+
+.container{
+    background-color:#F7E9D7;
+}
+.container-fluid{
+    background-color: #FBD6D2;
+}
+
+
+
+
+h3{ 
+    padding:.5rem 0;
+    font-size: 2.5rem;
+    color:var(--black);
+    font-weight: bold;
+}
+
+.table-hover{
+    color:var(--light-color);
+    font-size: 2.2rem;
+    padding:.5rem 0;
+    line-height: 1.5;
+}
+
+

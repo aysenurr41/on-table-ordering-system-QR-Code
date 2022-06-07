@@ -1,0 +1,41 @@
+.arkaPlan{
+	background: url("../images/sann-opacity.png") no-repeat center/cover ;
+	width: 100%;
+	height: outo;
+}
+
+.tables{
+    background-color: #353535;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 20px;
+    border:  2px solid #fff;
+    cursor: pointer;
+}
+.btn{
+	background: #780404;
+	color: white;
+}
+.btn:hover{
+	background: #211F1F;
+	color: white;
+}
+
+.tables h3{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+  
+}
+a {
+    text-decoration: none;
+}
+
+.tables:hover{
+    box-shadow: 0 0 5px 5px #fff;
+}
